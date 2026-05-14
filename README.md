@@ -7,7 +7,7 @@
     <td width="1440">
        <h2 align="center">Background</h2>
        <body>
-      Following the previous <a href="https://github.com/hyunchoulgil/RFM-Customer-Analysis">RFM customer analysis</a>, we identified that longer delivery days were associated with lower review scores. The <strong>Master–Platinum segments</strong>, which have strong potential for higher-value conversion, showed relatively long delivery times and lower satisfaction levels.
+      Following the previous <a href="https://github.com/hyunchoulgil/RFM-Customer_Analysis-">RFM customer analysis</a>, we identified that longer delivery days were associated with lower review scores. The <strong>Master–Platinum segments</strong>, which have strong potential for higher-value conversion, showed relatively long delivery times and lower satisfaction levels.
 
 To improve customer satisfaction and support upselling into higher-value segments, reducing delivery lead time became a key priority. This follow-up analysis therefore investigates regional delivery delays in Brazil to identify logistics bottlenecks affecting customer experience. <br>
          <br>
