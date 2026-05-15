@@ -171,7 +171,6 @@ To improve customer satisfaction and support upselling into higher-value segment
         <li>Higher review scores are associated with shorter average delivery times.<strong>(Chart below)</strong></li>
         <li>However, mid-tier group shows relatively longer average delivery days and lower review scores compared to higher RFM score groups. </li>
         <li>This suggests that delivery experience may be weakening customer satisfaction within the largest customer segment.</li>
-        <li>From a business perspective, targeting mid-tier RFM customers with faster-delivery product recommendations could be an effective way to improve satisfaction and strengthen retention.</li>
       </ul>
       </td>
          
