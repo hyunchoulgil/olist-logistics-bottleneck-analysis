@@ -173,5 +173,79 @@ To improve customer satisfaction and support upselling into higher-value segment
         <li>This suggests that delivery experience may be weakening customer satisfaction within the largest customer segment.</li>
       </ul>
       </td>
+  </table>
+  </tr>
+</table>
+<table align="center">
+  <h1 align="center">Seller Delay vs Logistics Delay</h1>
+  <h2 align="center">Top 5 Delay State by Order Volume</h2>
+  <tr>
+    <td width="500">
+      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083930/939e679d-e434-4935-8d84-f6766cc0cfeb_luwf7c.png" />
+      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083918/7244e4b8-f30f-408a-97cc-be6471d8cdf2_z2rtdp.png" />
+    </div>
+    </td>
+    <td valign="top" width="500">
+      <ul>
+        <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
+        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
+        <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
+        <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
+        <li>For 2022, there were no recorded returns for any product.</li>
+      </ul>
+    </td>
+   </tr>
+  </table>
+<table align="center">
+  <tr>
+    <h2 align="center">RJ Delivery Delay Rate by Seller State</h2>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png">
+    </td>
+    <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093450/c26a8a58-7425-405d-bb24-3dc35848b1c1_sw8a5f.png">
+    </td>
+      </table>
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
+            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
+            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
+          </ul>
+        </td>
+  </tr>
+  </table>
+<table align="center">
+  <tr>
+    <h2 align="center">RJ Delivery Delay Rate by Seller State</h2>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779090540/578d2649-ab11-4f03-a043-22d83f1be4c6_ubbq56.png">
+    </td>
+    <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779090493/d5547592-c5f5-46af-b52a-ffd33601d95d_meiqvj.png">
+    </td>
+  </tr>
+</table>
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
+            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
+            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
+          </ul>
+        </td>
+      </tr>
+      </table>
+<table align="center">
+    <h1 align="center">Recommendations</h1>
+    <h4 align="center">Based on the uncovered insights, here are actionable items by team that Olist can take away from our analysis.</h4>
+      <ul>
          
          
