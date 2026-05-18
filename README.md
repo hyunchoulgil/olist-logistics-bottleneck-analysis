@@ -40,28 +40,30 @@ To improve customer satisfaction and support upselling into higher-value segment
       </div>
       <td width="460" valign="top">
         <ol>
-          <li>
-          <strong>Approximately 57% of customers are concentrated in the mid-tier segments</strong>
+          <strong>1. Clear Regional Gap in Average Delivery Time</strong>
             <ul>
-                <li>From a business perspective, this group represents the largest customer pool. Rather than relying on broad discount campaigns, the company should focus on gradually moving these customers into higher-value tiers through repeat-purchase coupons, personalized product recommendations, and membership conversion campaigns</li>
+                <li>From left to right on the x-axis, the position of the boxes gradually shifts upward, showing a clear increase in median delivery time.</li>
+              <li>South and southeastern states(SP, MG, PR), show relatively fast delivery performance, with median delivery times around 10 days. In contrast, more remote northern and northeastern states(AL, AP, AM) show much longer median delivery times, often exceeding 25 to 30 days. This indicates that the customer's delivery experience varies significantly depending on the state thet live in.</li>
             </ul>
           </li>
         </ol>
         </td>
       <td width="460" valign="top">
         <ol start="2">
-          <li>
-            <strong>Top-Tier Customers Represent a Rare Segment</strong>
+            <strong>2. Extreme Delivery Delay Outliers in Major States (SP,MG,RJ)</strong>
             <ul>
-              <li>Core high-value customers account for less than 1% of the total customer base, making them a very limited and strategically important segment.</li>
-              <li>To prevent churn among these customers, the company should apply dedicated retention strategies such as exclusive benefits, priority coupons, and premium customer management programs.</li>
+              <li>A large number of outliers are concentrated above the boxes, especially in major states(SP, MG, RJ)</li>
+              <li>Although these regions have short average delivery times, their sheer volume of orders leads to frequent extreme delays of 100 to 200+ days, triggered by events like logistics bottlenecks, strikes, or lost packages.</li>
             </ul>
-          </li>
-          <li>
-            <strong>Small but Still Relevant Low-Tier Segment</strong>
+            </li>
+        </ol>
+        </td>
+      <td width="460" valign="top">
+        <ol start="2">
+            <strong>3. Higher Delivery Uncertainty in Remote Regions</strong>
             <ul>
-              <li>Although this group does not represent a large share of the customer base, these customers are likely to have lower purchase frequency or weaker recent engagement.</li>
-              <li>Therefore, instead of using costly marketing campaigns, it would be more efficient to manage them through low-cost reminder campaigns, automated emails, and limited discount coupons.</li>
+              <li>As we move toward the right side of the chart, both the height of the boxes and the length of the whiskers increase.</li>
+              <li>States such as PA, AL, AP, AM, and RR not only have slower deliveries but also show higher variability. This means delivery times are less predictable, making it harder to provide reliable estimates for customers in these regions.</li>
             </ul>
           </li>
         </ol>
@@ -95,16 +97,9 @@ To improve customer satisfaction and support upselling into higher-value segment
     <td>
       <h3 align="left">Seller</h3>
       <ol>
-        <li>Broad Recency Distribution and Large Inactive Customer Base<ul>
-            <li>Customer recency values are widely spread, ranging from recently active customers to customers who have not purchased for a long period.</li>
-            <li>This indicates that the customer base includes both active buyers and potentially dormant customers.</li>
-            <li>Large share of customers is concentrated in lower-quality recency segments, especially Score 9, which accounts for 19% of customers. Scores 5 to 9 together represent a significant portion of the customer base, suggesting that many customers have not purchased recently.</li>     
-          </ul>
-        </li>
-        <li>Recency-Based Growth: Targeted Win-back & Retention<ul>
-            <li>From a business perspective, this indicates a need for lifecycle-based customer management. Customers in high recency-score segments should be targeted with win-back campaigns, reminder messages, personalized coupons, and return incentives.</li>
-            <li>Meanwhile, customers with low recency scores should be managed through retention and loyalty-building strategies to prevent them from becoming inactive.</li>
-            <li><strong>Business Implication:</strong> Recency analysis helps separate active customers from dormant or churn-risk customers, enabling more targeted win-back, retention, and loyalty strategies.</li>
+        <strong>Strong concentration of sellers in the Southeast<ul></strong>
+            <li>Green dots are heavily clustered around the southeastern coastal region, especially near São Paulo (SP) and Rio de Janeiro (RJ), while northern and inland regions have very few sellers.</li>
+            <li>Olist supply network is highly concentrated in a few major metropolitan areas.</li>
           </ul>
         </li>
         </ol>
@@ -112,23 +107,17 @@ To improve customer satisfaction and support upselling into higher-value segment
       <ol>
         <li> One-Time Purchase Dominance – Limited Repeat Purchase Behavior <ul>
             <li>
-              90,548 customers, or 97% of the total customer base, purchased only once.
+              Compared to the seller map, the blue dots are spread much more widely across Brazil, especially along the northeastern coast and major inland cities.
             </li>
-            <li>Customers who purchased twice account for only 3%, while customers with three or more purchases represent a very small portion of the total.</li>
+            <li>This shows a clear mismatch between supply concentrated in the Southeast and demand spread nationwide, leading to structurally longer delivery distances and delivery times</li>
           </ul>
         </li>
-        <li>From Acquisition to Retention: Strategies for Driving Repeat Purchases<ul>
-            <li>
-              While the company may be successful in acquiring new customers, it appears to face challenges in encouraging repeat purchases and building long-term customer relationships.
-            </li>
-            <li>Rather than focusing only on new customer acquisition, the company should design strategies that encourage first-time buyers to make a second purchase.</li>
-           </li>
-            <li><strong>Business Implication:</strong> Frequency analysis shows that most customers purchase only once, highlighting the need for stronger repeat-purchase and retention strategies.</li>
+        </li>
         </ul>
       </ol>
       <h3 align="left">Order</h3>
       <ol>
-        <li> Spending Concentration in Mid-to-High Value Segments <ul>
+        <strong>Spending Concentration in Mid-to-High Value Segments <ul></strong>
             <li>
               Most customers are concentrated in relatively lower spending ranges, while a small number of customers show exceptionally high spending amounts.
             </li>
@@ -205,6 +194,8 @@ To improve customer satisfaction and support upselling into higher-value segment
       <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png">
     </td>
     <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779094236/ab88f4ae-0d82-4c63-be21-006819759c00_yx1nxj.png">
+    <td width="1000">
       <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093450/c26a8a58-7425-405d-bb24-3dc35848b1c1_sw8a5f.png">
     </td>
       </table>
@@ -228,7 +219,7 @@ To improve customer satisfaction and support upselling into higher-value segment
       <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779090540/578d2649-ab11-4f03-a043-22d83f1be4c6_ubbq56.png">
     </td>
     <td width="1000">
-      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779090493/d5547592-c5f5-46af-b52a-ffd33601d95d_meiqvj.png">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779094263/a2a07296-09b7-442d-ad5c-11bf525d020b_k7gm2n.png">
     </td>
   </tr>
 </table>
