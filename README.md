@@ -123,17 +123,8 @@ To improve customer satisfaction and support upselling into higher-value segment
             </li>
             <li>This indicates a long-tail spending structure, where a limited group of high-value customers contributes disproportionately to revenue.</li>
             <li>Monetary Score 1 accounts for just 1% of customers, while Scores 2 and 3 account for 3% and 7%, respectively. In contrast, a larger share of customers is concentrated in lower-value segments, especially Scores 6 to 9.</li>
-          </ul>
-        </li>
-        <li>Segmented Retention and Upselling Strategy <ul>
-            <li>
-             High-value customers are limited but strategically important. These customers should be managed through VIP retention, exclusive benefits, and personalized offers to prevent churn.
-            </li>
-            <li>Meanwhile, the larger low-to-mid spending customer base should be targeted with upselling, bundled offers, and loyalty programs to gradually increase purchase value.</li>
-           </li>
-            <li><strong>Business Implication:</strong> Monetary analysis shows that high-value customers are rare, while most customers are concentrated in lower-to-mid spending segments. This highlights the need to retain top spenders while increasing purchase value among broader customer groups.</li>
         </ul>
-      </ol>
+        </ol>
       </table>
 </div>
       <table align="center">
@@ -149,7 +140,7 @@ To improve customer satisfaction and support upselling into higher-value segment
 </td>
   <tr>
       <td width="500" valign="top">
-      <h3 align="center">Delievry Lead Time Histogram by States</h3>
+      <h3 align="center">Delivery Lead Time Histogram by States</h3>
       <ul>
         <li>The analysis reveals high logistical efficiency in major southeastern metro areas like SP and RJ, with most regions maintaining an optimized delivery lead time of around 10 days on average.</li>
         <li>Conversely, Rio de Janeiro (RJ) shows a sharp peak around 10 days but displays a unique long-tail pattern stretching up to 60 days. This anomalous volatility has been identified as a priority for a follow-up deep-dive analysis.</li>
@@ -165,21 +156,26 @@ To improve customer satisfaction and support upselling into higher-value segment
   </tr>
 </table>
 <table align="center">
-  <h1 align="center">Seller Delay vs Logistics Delay</h1>
-  <h2 align="center">Top 5 Delay State by Order Volume</h2>
-  <tr>
-    <td width="500">
-      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083930/939e679d-e434-4935-8d84-f6766cc0cfeb_luwf7c.png" />
-      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083918/7244e4b8-f30f-408a-97cc-be6471d8cdf2_z2rtdp.png" />
-    </div>
+  <h1 align="center">Deep Dive: Rio de Janeiro(RJ) Drilldown</h1>
+  <h2 align="center">Delay Rate(%) by State</h2>
+  <table align="center">
+</table>
+<img width="1000" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png" />
+      </div>
+      <td width="460" valign="top">
+        <ol>
     </td>
     <td valign="top" width="500">
       <ul>
-        <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
-        <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
-        <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
-        <li>For 2022, there were no recorded returns for any product.</li>
+        <table>
+      <tr>
+        <td>
+          <ul>
+        <li>Validating the volatility seen in the distribution data, RJ ranks 4th in Brazil with a 12.1% delivery delay ratio, showcasing a severe gap between average speed and actual reliability.</li>
+        <li>Despite both being high-volume metropolitan hubs, SP stabilizes at a 4.5% delay ratio, whereas RJ spikes at 12.1% (a 2.7x increase).</li>
+        <li>This disparity indicates that RJ's supply chain bottleneck is not just a factor of city size, but is driven by unique regional challenges in the last-mile phase.</li>
+        <li>
+          Excluding the remote northeastern states with inherently long average lead times, this represents the 2nd highest delay rate in the entire country, making RJ the worst-performing major metropolitan area.</li>
       </ul>
     </td>
    </tr>
@@ -190,28 +186,36 @@ To improve customer satisfaction and support upselling into higher-value segment
     <table align="center">
     <tr align="center">
       <td width="1000">
-      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png">
-    </td>
-    <td width="1000">
-      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779094236/ab88f4ae-0d82-4c63-be21-006819759c00_yx1nxj.png">
-    <td width="1000">
       <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093450/c26a8a58-7425-405d-bb24-3dc35848b1c1_sw8a5f.png">
+    <td width="1000">
+      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779127121/wef_kqqoct.png">
     </td>
       </table>
     <table>
       <tr>
         <td>
           <ul>
-            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
+            <li>Rio de Janeiro (RJ) exhibits the highest logistics-driven delay share among all major states, with 78.5% of late orders caused purely by logistics and carrier inefficiencies.(1306/1664)</li>
             <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
             <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
           </ul>
         </td>
   </tr>
+      </table>
+<table align="center">
+    <tr align="center">
+      <td width="450" valign="top">
+      <h2>Top 5 States by Delivery Delay Volume</h2>
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083930/939e679d-e434-4935-8d84-f6766cc0cfeb_luwf7c.png">
+        <h4>
+        <strong>Top-selling categories(cama_mesa_banho and informatica_acessorios etc) attract the most customers, but some still experience long delivery times, making category-level delivery optimization essential for improving customer satisfaction.</strong>
+      </h4>
+    </td>
+    </tr>
   </table>
 <table align="center">
   <tr>
-    <h2 align="center">RJ Delivery Delay Rate by Seller State</h2>
+    <h2 align="center">Why is Rio de Janeiro (RJ) Experiencing High Delivery Delays?</h2>
     <table align="center">
     <tr align="center">
       <td width="1000">
@@ -226,9 +230,9 @@ To improve customer satisfaction and support upselling into higher-value segment
       <tr>
         <td>
           <ul>
-            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
-            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
-            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
+            <li>Inbound logistics to RJ are heavily bottlenecked by inter-state routes, with São Paulo (SP $\rightarrow$ RJ, 15.5%) and Paraná (PR $\rightarrow$ RJ, 14.0%) ranking as the #1 and #2 highest delay sources.</li>
+            <li>This proves that the root cause of the breakdown is not RJ's local network—which remains highly stable at a 6.5% delay rate—but rather the bottlenecks occurring along the long-haul line-haul corridors inbound from São Paulo (SP) and Paraná (PR).</li>
+            <li>Focus on diversifying truck transit routes for the SP/PR $\rightarrow$ RJ corridors, while establishing border cross-docking centers to split and unload inbound freight before it clusters.</li>
           </ul>
         </td>
       </tr>
