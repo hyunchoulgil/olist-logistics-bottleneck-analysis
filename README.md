@@ -246,5 +246,18 @@ To improve customer satisfaction and support upselling into higher-value segment
     <h1 align="center">Recommendations</h1>
     <h4 align="center">Based on the uncovered insights, here are actionable items by team that Olist can take away from our analysis.</h4>
       <ul>
+        <h3>1. Regional Fulfillment Decentralization</h3>
+        <li>Extreme concentration of sellers in the Southeastern hub (SP, MG) causes massive long-distance transit to the North/Northeast and severe bottlenecks.</li>
+        <ul><li>Win back lost customers after the pandemic boom by implementing marketing or promotional campaigns for returning customers.</li></ul>
+        <h3>2. Targeted Last-Mile Carrier Optimization in Rio de Janeiro</h3>
+        <li>RJ shows a massive 12.1% delay rate (2.7x higher than SP) driven heavily by carrier-level stagnation (78.5% share) and extreme tail risk (P99 > 50 days).</li>
+          <ul><li>Move away from over-reliance on a single underperforming carrier (or Correios) in RJ, and onboard regional 3PL (Third-Party Logistics) partners or private crowdsourced delivery networks.</li>
+          <li>Implement stricter Service Level Agreements (SLAs) with current carriers in RJ, introducing penalties for orders exceeding the 25-day (P90) threshold.</li></ul>
+        <h3>3. Predictive Delivery Promising & Dynamic SLA</h3>
+        <li>Extreme volatility and wide whiskers in remote states (AL, AP, AM, RR) make standard delivery ETAs unreliable, hurting customer trust.</li>
+          <ul><li>Implement Dynamic SLA logic on the checkout page that adjusts estimated delivery dates based on the customer’s state, historical carrier performance, and seasonal order volume. </li>
+            <li>Buffer the communication for high-risk zones (P95/P99 tail risk areas) to manage customer expectations proactively and reduce customer support overhead.</li></ul>
+      </ul>
+</table>
          
          
