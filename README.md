@@ -96,35 +96,39 @@ To improve customer satisfaction and support upselling into higher-value segment
   <tr>
     <td>
       <h3 align="left">Seller</h3>
-      <ol>
-        <strong>Strong concentration of sellers in the Southeast<ul></strong>
-            <li>Green dots are heavily clustered around the southeastern coastal region, especially near São Paulo (SP) and Rio de Janeiro (RJ), while northern and inland regions have very few sellers.</li>
-            <li>Olist supply network is highly concentrated in a few major metropolitan areas.</li>
-          </ul>
-        </li>
-        </ol>
-      <h3 align="left">Customer</h3>
-      <ol>
-        <li> One-Time Purchase Dominance – Limited Repeat Purchase Behavior <ul>
-            <li>
-              Compared to the seller map, the blue dots are spread much more widely across Brazil, especially along the northeastern coast and major inland cities.
-            </li>
-            <li>This shows a clear mismatch between supply concentrated in the Southeast and demand spread nationwide, leading to structurally longer delivery distances and delivery times</li>
-          </ul>
-        </li>
-        </li>
-        </ul>
-      </ol>
-      <h3 align="left">Order</h3>
-      <ol>
-        <strong>Spending Concentration in Mid-to-High Value Segments <ul></strong>
-            <li>
-              Most customers are concentrated in relatively lower spending ranges, while a small number of customers show exceptionally high spending amounts.
-            </li>
-            <li>This indicates a long-tail spending structure, where a limited group of high-value customers contributes disproportionately to revenue.</li>
-            <li>Monetary Score 1 accounts for just 1% of customers, while Scores 2 and 3 account for 3% and 7%, respectively. In contrast, a larger share of customers is concentrated in lower-value segments, especially Scores 6 to 9.</li>
-        </ul>
-        </ol>
+<ul>
+  <li>
+    <strong>Strong concentration of sellers in the Southeast</strong>
+    <ul>
+      <li>Green dots are heavily clustered around the southeastern coastal region, especially near São Paulo (SP) and Rio de Janeiro (RJ), while northern and inland regions have very few sellers.</li>
+      <li>Olist's supply network is highly concentrated in a few major metropolitan areas.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 align="left">Customer</h3>
+<ul>
+  <li>
+    <strong>Nationwide demand and huge delivery distances</strong>
+    <ul>
+      <li>Compared to the seller map, the blue dots are spread much more widely across Brazil, especially along the northeastern coast and major inland cities.</li>
+      <li>This shows a clear mismatch between supply concentrated in the Southeast and demand spread nationwide, leading to structurally longer delivery distances and delivery times.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 align="left">Order</h3>
+<ul>
+  <li>
+    <strong>Logistics bottlenecks in the Southeast vs. infrastructural constraints in the Northeast</strong>
+    <ul>
+      <li>Orange dots are thick and tightly packed in the Southeast. This suggests that high order volume may create congestion and logistics bottlenecks in major metropolitan areas.</li>
+      <li>In some northern and northeastern regions, total order volume is relatively low, but delayed orders still appear frequently. This suggests that chronic delays may be driven by long-distance shipping and weaker logistics infrastructure.</li>
+    </ul>
+  </li>
+</ul>
+</tr>
+</td>
       </table>
 </div>
       <table align="center">
@@ -155,64 +159,65 @@ To improve customer satisfaction and support upselling into higher-value segment
   </table>
   </tr>
 </table>
-<table align="center">
-  <h1 align="center">Deep Dive: Rio de Janeiro(RJ) Drilldown</h1>
-  <h2 align="center">Delay Rate(%) by State</h2>
-  <table align="center">
-</table>
-<img width="1000" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png" />
-      </div>
-      <td width="460" valign="top">
-        <ol>
-    </td>
-    <td valign="top" width="500">
-      <ul>
-        <table>
-      <tr>
-        <td>
-          <ul>
-        <li>Validating the volatility seen in the distribution data, RJ ranks 4th in Brazil with a 12.1% delivery delay ratio, showcasing a severe gap between average speed and actual reliability.</li>
-        <li>Despite both being high-volume metropolitan hubs, SP stabilizes at a 4.5% delay ratio, whereas RJ spikes at 12.1% (a 2.7x increase).</li>
-        <li>This disparity indicates that RJ's supply chain bottleneck is not just a factor of city size, but is driven by unique regional challenges in the last-mile phase.</li>
-        <li>
-          Excluding the remote northeastern states with inherently long average lead times, this represents the 2nd highest delay rate in the entire country, making RJ the worst-performing major metropolitan area.</li>
-      </ul>
-    </td>
-   </tr>
-  </table>
-<table align="center">
-  <tr>
-    <h2 align="center">RJ Delivery Delay Rate by Seller State</h2>
-    <table align="center">
-    <tr align="center">
-      <td width="1000">
-      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093450/c26a8a58-7425-405d-bb24-3dc35848b1c1_sw8a5f.png">
-    <td width="1000">
-      <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779127121/wef_kqqoct.png">
-    </td>
-      </table>
-    <table>
-      <tr>
-        <td>
-          <ul>
-            <li>Rio de Janeiro (RJ) exhibits the highest logistics-driven delay share among all major states, with 78.5% of late orders caused purely by logistics and carrier inefficiencies.(1306/1664)</li>
-            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
-            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
-          </ul>
-        </td>
-  </tr>
-      </table>
-<table align="center">
-    <tr align="center">
-      <td width="450" valign="top">
-      <h2>Top 5 States by Delivery Delay Volume</h2>
-      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779083930/939e679d-e434-4935-8d84-f6766cc0cfeb_luwf7c.png">
-        <h4>
-        <strong>Top-selling categories(cama_mesa_banho and informatica_acessorios etc) attract the most customers, but some still experience long delivery times, making category-level delivery optimization essential for improving customer satisfaction.</strong>
-      </h4>
-    </td>
+<div align="center">
+  <h1>Deep Dive: Rio de Janeiro(RJ) Drilldown</h1>
+  <h2>Delay Rate(%) by State</h2>
+  
+  <img width="1000" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png" alt="Delay Rate by State" />
+  <br><br>
+  <table width="1000" border="0" cellpadding="15" cellspacing="0" style="text-align: left; border: 1px solid #e1e4e8; border-radius: 6px;">
+    <tr>
+      <td>
+        <ul style="line-height: 1.6; margin: 0; padding-left: 20px;">
+          <li style="margin-bottom: 10px;">
+            Validating the volatility seen in the distribution data, RJ ranks 4th in Brazil with a 12.1% delivery delay ratio, showcasing a severe gap between average speed and actual reliability.
+          </li>
+          <li style="margin-bottom: 10px;">
+            Despite both being high-volume metropolitan hubs, SP stabilizes at a 4.5% delay ratio, whereas RJ spikes at 12.1% (a 2.7x increase).
+          </li>
+          <li style="margin-bottom: 10px;">
+            This disparity indicates that RJ's supply chain bottleneck is not just a factor of city size, but is driven by unique regional challenges in the last-mile phase.
+          </li>
+          <li style="margin-bottom: 0;">
+            Excluding the remote northeastern states with inherently long average lead times, this represents the 2nd highest delay rate in the entire country, making RJ the worst-performing major metropolitan area.
+          </li>
+        </ul>
+      </td>
     </tr>
   </table>
+</div>
+<div align="center">
+  <h2>RJ Delivery Delay Rate by Seller State</h2>
+  <br>
+
+  <table width="1000" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="500" align="center" valign="middle">
+        <img width="100%" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093450/c26a8a58-7425-405d-bb24-3dc35848b1c1_sw8a5f.png" alt="Delay Responsibility Share" />
+      </td>
+      <td width="500" align="center" valign="middle">
+        <img width="100%" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779127121/wef_kqqoct.png" alt="Carrier Delivery Time Distribution" />
+      </td>
+    </tr>
+  </table>
+  <table width="1000" border="0" cellpadding="15" cellspacing="0" style="text-align: left; border: 1px solid #e1e4e8; border-radius: 6px;">
+    <tr>
+      <td>
+        <ul style="line-height: 1.6; margin: 0; padding-left: 20px;">
+          <li style="margin-bottom: 10px;">
+            Rio de Janeiro (RJ) exhibits the highest logistics-driven delay share among all major states, with 78.5% of late orders caused purely by logistics and carrier inefficiencies. (1306/1664)
+          </li>
+          <li style="margin-bottom: 10px;">
+            This severe logistics dependency directly drives the extreme tail risk seen in the delivery time distribution, where the 90th percentile (P90) reaches ~25 days, the 95th (P95) stretches to ~33 days, and the 99th (P99) spikes past 50 days.
+          </li>
+          <li style="margin-bottom: 0;">
+            The data signals that while the majority of shipments peak at a fast 5-7 days, a critical portion of orders faces massive carrier-level stagnation, creating an unpredictable delivery experience for RJ customers.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 <table align="center">
   <tr>
     <h2 align="center">Why is Rio de Janeiro (RJ) Experiencing High Delivery Delays?</h2>
