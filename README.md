@@ -149,17 +149,16 @@ To improve customer satisfaction and support upselling into higher-value segment
 </td>
   <tr>
       <td width="500" valign="top">
-      <h3 align="center">Delivery Distribution Time by Customer State</h3>
+      <h3 align="center">Delievry Lead Time Histogram by States</h3>
       <ul>
-        <li>The customer distribution by total RFM score shows a balanced bell-shaped pattern, with the largest group concentrated around scores 12–14.</li>
-        <li>Customers in the lowest and highest RFM score ranges account for relatively small shares, suggesting that both highly inactive and top-value customers are limited segments.</li>
-        <li>From a business perspective, the company should focus on moving mid-tier customers into higher-value segments through repeat-purchase incentives, personalized recommendations, and loyalty programs. 
+        <li>The analysis reveals high logistical efficiency in major southeastern metro areas like SP and RJ, with most regions maintaining an optimized delivery lead time of around 10 days on average.</li>
+        <li>Conversely, Rio de Janeiro (RJ) shows a sharp peak around 10 days but displays a unique long-tail pattern stretching up to 60 days. This anomalous volatility has been identified as a priority for a follow-up deep-dive analysis.</li>
   <td width="500" valign="top">
-      <h3 align="center">High Delay State in Brazil</h3>
+      <h3 align="center">Highest Delivery Lead Time States in Brazil</h3>
       <ul>
-        <li>Higher review scores are associated with shorter average delivery times.<strong>(Chart below)</strong></li>
-        <li>However, mid-tier group shows relatively longer average delivery days and lower review scores compared to higher RFM score groups. </li>
-        <li>This suggests that delivery experience may be weakening customer satisfaction within the largest customer segment.</li>
+        <li>Mapped the average delivery delays by state, revealing significant logistical bottlenecks concentrated in the northern and outlying northeastern regions.</li>
+        <li>Due to infrastructural limitations and vast distances, the regions surrounding the Amazon basin are expected to face chronically entrenched delivery delays.</li>
+        <li>To enhance delivery efficiency, strategic initiatives such as establishing a regional fulfillment hub or optimizing the last-mile delivery process in the Northeast are highly recommended.</li>
       </ul>
       </td>
   </table>
