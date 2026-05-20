@@ -18,7 +18,7 @@
       <h1 align="center">Business Value</h1>
       <h2 align="center">Key Business Impact</h2>
   
-- **Identifies Regional Delivery Bottlenecks**  
+- **Identify Regional Delivery Bottlenecks**  
   Analyzes delivery performance by customer region, seller region, and shipping route to identify where logistics delays are concentrated.
 
 - **Improves Customer Satisfaction**  
@@ -29,9 +29,6 @@
 
 - **Prioritizes Logistics Optimization**  
   By comparing delivery days and delay patterns across regions, the company can focus operational resources on the routes and states with the highest delivery risk.
-
-- **Enables Data-Driven Decision Making**  
-  The analysis provides actionable insights for data, logistics, and operations teams by connecting customer satisfaction issues with regional delivery performance.
 
   </table>
 <h1 align="center">State-Level Delivery Pattern Analysis</h1>
@@ -133,7 +130,7 @@
 </div>
       <table align="center">
   <tr>
-    <h2 align="center">High Delay States in Brazil</h2>
+    <h2 align="center">High Average Delivery Lead-Time States in Brazil</h2>
     <td width="1000">
     <img width="500" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1778827234/Delivery_Time_Distribution_by_Customer_State_v7oxx3.png">
     </td>
@@ -149,7 +146,7 @@
         <li>The analysis reveals high logistical efficiency in major southeastern metro areas like SP and RJ, with most regions maintaining an optimized delivery lead time of around 10 days on average.</li>
         <li>Conversely, Rio de Janeiro (RJ) shows a sharp peak around 10 days but displays a unique long-tail pattern stretching up to 60 days. This anomalous volatility has been identified as a priority for a follow-up deep-dive analysis.</li>
   <td width="500" valign="top">
-      <h3 align="center">Highest Delivery Lead Time States in Brazil</h3>
+      <h3 align="center">Highest Delivery Lead Times in North & Northeast</h3>
       <ul>
         <li>Mapped the average delivery delays by state, revealing significant logistical bottlenecks concentrated in the northern and outlying northeastern regions.</li>
         <li>Due to infrastructural limitations and vast distances, the regions surrounding the Amazon basin are expected to face chronically entrenched delivery delays.</li>
@@ -161,8 +158,6 @@
 </table>
 <div align="center">
   <h1>Deep Dive: Rio de Janeiro(RJ) Drilldown</h1>
-  <h2>Delay Rate(%) by State</h2>
-  
   <img width="1000" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1779093654/delay_rate_fwtrks.png" alt="Delay Rate by State" />
   <br><br>
   <table width="1000" border="0" cellpadding="15" cellspacing="0" style="text-align: left; border: 1px solid #e1e4e8; border-radius: 6px;">
@@ -170,7 +165,7 @@
       <td>
         <ul style="line-height: 1.6; margin: 0; padding-left: 20px;">
           <li style="margin-bottom: 10px;">
-            Validating the volatility seen in the distribution data, RJ ranks 4th in Brazil with a 12.1% delivery delay ratio, showcasing a severe gap between average speed and actual reliability.
+            Validating the volatility seen in the distribution data, <strong>RJ ranks 4th in Brazil with a 12.1% delivery delay ratio</strong>, showcasing a severe gap between average speed and actual reliability.
           </li>
           <li style="margin-bottom: 10px;">
             Despite both being high-volume metropolitan hubs, SP stabilizes at a 4.5% delay ratio, whereas RJ spikes at 12.1% (a 2.7x increase).
@@ -179,7 +174,7 @@
             This disparity indicates that RJ's supply chain bottleneck is not just a factor of city size, but is driven by unique regional challenges in the last-mile phase.
           </li>
           <li style="margin-bottom: 0;">
-            Excluding the remote northeastern states with inherently long average lead times, this represents the 2nd highest delay rate in the entire country, making RJ the worst-performing major metropolitan area.
+            Excluding the remote northeastern states with inherently long average lead times, <strong>RJ represents the 2nd highest delay rate in the entire country</strong>, making RJ the worst-performing major metropolitan area.
           </li>
         </ul>
       </td>
@@ -187,7 +182,7 @@
   </table>
 </div>
 <div align="center">
-  <h2>RJ Delivery Delay Rate by Seller State</h2>
+  <h2>Logistics Inefficiency and Long-Tail Delivery Delays in Rio de Janeiro(RJ) </h2>
   <br>
 
   <table width="1000" border="0" cellpadding="0" cellspacing="0">
@@ -205,10 +200,10 @@
       <td>
         <ul style="line-height: 1.6; margin: 0; padding-left: 20px;">
           <li style="margin-bottom: 10px;">
-            Rio de Janeiro (RJ) exhibits the highest logistics-driven delay share among all major states, with 78.5% of late orders caused purely by logistics and carrier inefficiencies. (1306/1664)
+            Rio de Janeiro (RJ) exhibits the highest logistics-driven delay share among all states in Brazil, with <strong>78.5%</strong> of late orders caused by logistics and carrier inefficiencies. (1306/1664)
           </li>
           <li style="margin-bottom: 10px;">
-            This severe logistics dependency directly drives the extreme tail risk seen in the delivery time distribution, where the 90th percentile (P90) reaches ~25 days, the 95th (P95) stretches to ~33 days, and the 99th (P99) spikes past 50 days.
+            This severe logistics problem directly drives the <strong>extreme tail risk</strong> seen in the delivery time distribution, where the worst 10% (P90) reaches ~25 days, the 5% (P95) stretches to ~33 days, and the 1% (P99) spikes past 50 days.
           </li>
           <li style="margin-bottom: 0;">
             The data signals that while the majority of shipments peak at a fast 5-7 days, a critical portion of orders faces massive carrier-level stagnation, creating an unpredictable delivery experience for RJ customers.
@@ -235,8 +230,8 @@
       <tr>
         <td>
           <ul>
-            <li>Inbound logistics to RJ are heavily bottlenecked by inter-state routes, with São Paulo (SP $\rightarrow$ RJ, 15.5%) and Paraná (PR $\rightarrow$ RJ, 14.0%) ranking as the #1 and #2 highest delay sources.</li>
-            <li>This proves that the root cause of the breakdown is not RJ's local network—which remains highly stable at a 6.5% delay rate—but rather the bottlenecks occurring along the long-haul line-haul corridors inbound from São Paulo (SP) and Paraná (PR).</li>
+            <li>Inbound logistics to RJ are heavily bottlenecked by inter-state routes, with São Paulo <strong>(SP $\rightarrow$ RJ, 15.5%)</strong> and Paraná <strong>(PR $\rightarrow$ RJ, 14.0%)</strong> ranking as the #1 and #2 highest delay sources.</li>
+            <li>This proves that the root cause of the breakdown is not RJ's local network—which remains highly stable at a <strong>6.5%</strong> delay rate—but rather the bottlenecks occurring along the long-haul line-haul corridors inbound from São Paulo (SP) and Paraná (PR).</li>
             <li>Focus on diversifying truck transit routes for the SP/PR $\rightarrow$ RJ corridors, while establishing border cross-docking centers to split and unload inbound freight before it clusters.</li>
           </ul>
         </td>
